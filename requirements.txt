@@ -2,3 +2,4 @@ streamlit
 gTTS
 edge-tts
 pydub
+ffmpeg-python
