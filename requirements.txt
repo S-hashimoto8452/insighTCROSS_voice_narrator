@@ -3,3 +3,4 @@ gTTS
 edge-tts
 pydub
 ffmpeg-python
+audioop-lts
